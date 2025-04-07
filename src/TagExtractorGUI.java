@@ -172,4 +172,5 @@ public class TagExtractorGUI extends JFrame implements ActionListener {
         // Use SwingUtilities.invokeLater to ensure GUI objects are created on the Event Dispatch Thread (EDT)
         SwingUtilities.invokeLater(() -> new TagExtractorGUI());
     }
+
 }
